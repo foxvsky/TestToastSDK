@@ -1,2 +1,0 @@
-# TestToastSDK
-Test Toast Sdk
