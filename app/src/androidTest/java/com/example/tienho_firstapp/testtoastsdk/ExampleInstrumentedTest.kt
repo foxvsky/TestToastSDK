@@ -1,4 +1,4 @@
-package com.example.tienho_firstapp.sdkpublicdemo
+package com.example.tienho_firstapp.testtoastsdk
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

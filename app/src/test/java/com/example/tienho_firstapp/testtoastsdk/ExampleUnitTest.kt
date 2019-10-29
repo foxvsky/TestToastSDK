@@ -1,4 +1,4 @@
-package com.example.tienho_firstapp.sdkpublicdemo
+package com.example.tienho_firstapp.testtoastsdk
 
 import org.junit.Test
 
